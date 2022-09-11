@@ -1,0 +1,32 @@
+.active{
+    color:  rgb(185 28 28 / var(--tw-bg-opacity));
+}
+.active{
+    color:  rgb(185 28 28 / var(--tw-bg-opacity));
+}
+#card{
+    width: 320px;
+}
+.transition-own:hover{
+background-color: rgb(192, 4, 4);
+transition: all;
+transition-duration: 1s;
+
+}
+
+
+.mar-20{
+margin: 2rem .7rem;
+box-shadow: 1px 1.5px 0px 1px rgb(216, 212, 212) ;
+
+
+}
+img.cardim{
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+.text-own{
+    margin-top: 1rem;
+    font-size: 1.25rem;
+}
